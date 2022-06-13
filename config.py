@@ -1,5 +1,5 @@
-tgBotToken = "TELEGRAM BOT TOKEN"  # bot token from t.me/BotFather
-saucenao_tkn = "SAUCENAO TOKEN"  # saucenao token from saucenao.com
+tgBotToken = "5313712893:AAEyB8wLg5rAl987D2ZX1dMEyTborcAhIJQ"  # bot token from t.me/BotFather
+saucenao_tkn = "70c57605406a6274ad7659c570aae161f23352b5"  # saucenao token from saucenao.com
 output_type = "2"
 numres = 10
 minsim = "70!"
